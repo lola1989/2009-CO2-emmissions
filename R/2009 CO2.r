@@ -1,5 +1,4 @@
 ## Final Project
-## Title
 ## Lillian Elek
 
 
